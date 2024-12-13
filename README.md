@@ -1,4 +1,4 @@
-### Hi there, I'm Hassan Elsayed 👋
+### Hi there, I'm Hassan Elsayd 👋
 
 #### A Front-End Developer specializing in React.js and Next.js.
 
